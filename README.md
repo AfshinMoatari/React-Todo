@@ -1,4 +1,4 @@
-# Just a Todo React App(TypeScript) with ASP. NET Web API and SQLite database
+# Just a basic Todo React App(TypeScript) with ASP. NET Web API and SQLite database
 
 ## Running the client React app
 
