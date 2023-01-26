@@ -30,7 +30,7 @@ API will run on following port [https://localhost:7008](https://localhost:7008) 
 You can use [DB Browser for SQLite](https://sqlitebrowser.org/) to view/edit the database.
 
 
-Here is dummy user, just in case:
+Here is a dummy user, just in case:
 
 **Username:** Bob
 
