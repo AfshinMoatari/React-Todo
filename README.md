@@ -16,10 +16,15 @@ Run the TodosServer either with Visual Studio: IDE or via dotnet CLI command.
 API will run on following port [https://localhost:7008](https://localhost:7008) and here are the endpoins:
 
 > **Post:**  .../api/Auth/signup
+> 
 > **Post:**  .../api/Auth/login
+> 
 > **Get:**  .../api/Task/TaskList
+> 
 > **Post:**  .../api/Task/CreateTask
+> 
 > **Get:**  .../api/Task/DeleteTask
+> 
 > **Post:**  .../api/Task/UpdateTask
 
 You can use [DB Browser for SQLite](https://sqlitebrowser.org/) to view/edit the database.
