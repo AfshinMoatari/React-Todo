@@ -33,4 +33,5 @@ You can use [DB Browser for SQLite](https://sqlitebrowser.org/) to view/edit the
 Here is dummy user, just in case:
 
 **Username:** Bob
+
 **Password:** toaster
